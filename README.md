@@ -509,28 +509,6 @@ Hyperparameter tuning can improve model performance.
 
 MAE, MSE, and RMSE provide complementary perspectives on prediction error.
 
-🚀 Getting Started
-Clone the repository
-git clone https://github.com/YOUR_USERNAME/Smart-Logistics-ETA.git
-cd Smart-Logistics-ETA
-
-Create a virtual environment
-python -m venv .venv
-
-Windows
-.venv\Scripts\activate
-
-macOS / Linux
-source .venv/bin/activate
-
-Install dependencies
-pip install -r requirements.txt
-
-Run the notebooks
-jupyter notebook
-
-
-Then open the project notebooks and execute the workflow.
 
 📦 Dataset
 
