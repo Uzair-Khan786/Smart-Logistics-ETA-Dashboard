@@ -1,42 +1,60 @@
-🚚 Smart Logistics ETA — Delivery Time Prediction
+# 🚚 Smart Logistics ETA — Delivery Time Prediction
 
-Predicting delivery time with machine learning to make logistics smarter, faster, and more reliable.
-
-
+**Predicting delivery time with machine learning to make logistics smarter, faster, and more reliable.**
 
 
 
 
 
 
-📌 Project Overview
 
-Smart Logistics ETA is an end-to-end machine learning project focused on predicting food delivery time (ETA) from operational, environmental, and delivery-related features.
 
-The project uses the Food Delivery Time Prediction dataset by Changle Chansu from Kaggle and applies an extensive machine learning workflow involving:
+## 📌 Project Overview
 
-Raw Dataset
+**Smart Logistics ETA is an end-to-end machine learning project focused on predicting food delivery time (ETA) from operational, environmental, and delivery-related features.**
+
+**The project uses the Food Delivery Time Prediction dataset by Changle Chansu from Kaggle and applies an extensive machine learning workflow involving:**
+
+**Raw Dataset**
+
      ↓
-Data Cleaning
+     
+**Data Cleaning**
+
      ↓
-Exploratory Data Analysis
+     
+**Exploratory Data Analysis**
+
      ↓
-Feature Engineering
+     
+**Feature Engineering**
+
      ↓
-Feature Selection
+     
+**Feature Selection**
+
      ↓
-Model Development
+     
+**Model Development**
+
      ↓
-Hyperparameter Tuning
+     
+**Hyperparameter Tuning**
+
      ↓
-Cross-Validation
+     
+**Cross-Validation**
+
      ↓
-Model Evaluation
+     
+**Model Evaluation**
+
      ↓
-Optimized ETA Prediction
+     
+**Optimized ETA Prediction**
 
 
-The models are evaluated and optimized using:
+**The models are evaluated and optimized using:**
 
 MSE — Mean Squared Error
 
