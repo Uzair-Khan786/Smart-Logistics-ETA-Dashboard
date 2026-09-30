@@ -62,7 +62,7 @@ MAE — Mean Absolute Error
 
 RMSE — Root Mean Squared Error
 
-🎯 Project Objectives
+## 🎯 Project Objectives
 
 The central question of this project is:
 
@@ -90,7 +90,7 @@ Key objectives
 
 🚚 Develop an ML-based foundation for delivery ETA prediction
 
-💡 Why Smart Logistics ETA?
+## 💡 Why Smart Logistics ETA?
 The real-world problem
 
 For logistics companies, ETA is more than just a number displayed to customers.
