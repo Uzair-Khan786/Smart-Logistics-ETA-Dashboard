@@ -194,7 +194,8 @@ Metric	What it measures
 MAE	Average absolute prediction error
 MSE	Penalizes larger prediction errors
 RMSE	Error magnitude in the original target scale
-🧹 Data Cleaning
+
+## 🧹 Data Cleaning
 
 Real-world datasets require careful preprocessing before machine learning.
 
@@ -218,7 +219,7 @@ Appropriate transformation of variables
 
 The objective is to create a clean and reliable dataset for downstream modeling.
 
-🔍 Exploratory Data Analysis
+## 🔍 Exploratory Data Analysis
 
 EDA was performed to understand the characteristics of the dataset and identify relationships between the available features and delivery time.
 
