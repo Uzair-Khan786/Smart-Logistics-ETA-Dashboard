@@ -310,7 +310,7 @@ Improving generalization
 
 Making training more efficient
 
-🤖 Model Development
+## 🤖 Model Development
 
 Multiple regression algorithms can be evaluated using the same preprocessing and validation methodology.
 
@@ -353,7 +353,7 @@ XGBoost / LightGBM / CatBoost, where applicable
 
 Model selection is based on measured validation performance rather than simply choosing the most complex algorithm.
 
-🎛️ Hyperparameter Tuning
+## 🎛️ Hyperparameter Tuning
 
 Hyperparameter tuning was performed to identify model configurations that provide improved predictive performance.
 
@@ -376,7 +376,7 @@ Randomized Search
 
 can be combined with cross-validation to evaluate different parameter configurations.
 
-🔁 Cross-Validation
+## 🔁 Cross-Validation
 
 Cross-validation was used to obtain a more robust estimate of model performance than relying on a single train-test split.
 
@@ -393,7 +393,7 @@ Dataset
 
 Performance is evaluated across multiple folds and aggregated to obtain a more reliable estimate of model behavior.
 
-📊 Model Evaluation
+## 📊 Model Evaluation
 
 The project focuses on three primary regression metrics.
 
@@ -472,7 +472,7 @@ Root Mean Squared Error — RMSE
 
 RMSE expresses prediction error on the same scale as the target variable.
 
-🏆 Model Performance
+## 🏆 Model Performance
 
 Replace the placeholders below with the actual cross-validation results from the project.
 
@@ -491,7 +491,7 @@ MSE: XX.XX
 
 RMSE: XX.XX
 
-📈 Results & Key Insights
+## 📈 Results & Key Insights
 
 The project demonstrates the importance of an end-to-end machine learning workflow.
 
@@ -529,7 +529,7 @@ Hyperparameter tuning can improve model performance.
 MAE, MSE, and RMSE provide complementary perspectives on prediction error.
 
 
-📦 Dataset
+## 📦 Dataset
 
 This project uses the Food Delivery Time Prediction dataset by Changle Chansu, available through Kaggle.
 
@@ -580,7 +580,8 @@ Cross-validation configuration
 
 Python/library versions
 
-🧰 Tech Stack
+## 🧰 Tech Stack
+
 Category	Technology
 Language	Python
 Data Manipulation	Pandas
