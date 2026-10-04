@@ -620,13 +620,13 @@ This project demonstrates practical experience with:
 
 ✅ Reproducible ML workflows
 
-👨‍💻 Author
+## 👨‍💻 Author
 
-Your Name
+**Uzair Ahmad Khan**
 
-If you found this project useful, consider giving the repository a ⭐.
+**If you found this project useful, consider giving the repository a ⭐.**
 
-📌 Project Takeaway
+## 📌 Project Takeaway
 
 Smart Logistics ETA demonstrates how a carefully designed machine-learning pipeline can transform delivery data into meaningful ETA predictions.
 
