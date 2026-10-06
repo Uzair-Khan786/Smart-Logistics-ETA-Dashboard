@@ -111,7 +111,7 @@ Accurate delivery-time prediction can influence customer experience, operational
         Better ETA    Scheduling    Allocation
         Visibility    Decisions     Decisions
 
-🛵 1. Better customer experience
+### 🛵 1. Better customer experience
 
 Customers want to know:
 
@@ -121,7 +121,7 @@ An ETA that is consistently too early or too late can reduce customer trust.
 
 More accurate ETA predictions can help delivery platforms provide realistic delivery-time estimates and improve transparency.
 
-🚦 2. Delivery time depends on multiple factors
+### 🚦 2. Delivery time depends on multiple factors
 
 Delivery time is affected by many variables, including:
 
