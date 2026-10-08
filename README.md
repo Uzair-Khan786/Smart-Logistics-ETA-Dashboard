@@ -68,11 +68,11 @@ The central question of this project is:
 
 "Given the available delivery information, how accurately can we predict when an order will arrive?"
 
-Key objectives
+### Key objectives
 
-🧹 Clean and preprocess real-world delivery data
+**🧹 Clean and preprocess real-world delivery data**
 
-🔎 Perform detailed exploratory data analysis
+**🔎 Perform detailed exploratory data analysis**
 
 🛠️ Engineer meaningful predictive features
 
