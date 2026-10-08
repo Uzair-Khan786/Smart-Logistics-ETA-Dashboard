@@ -454,7 +454,7 @@ Cross-Validated Evaluation
 
 This allows the impact of different stages of the ML pipeline to be investigated rather than treating model training as a single step.
 
-Key takeaways
+### Key takeaways
 
 Data quality directly affects downstream model performance.
 
