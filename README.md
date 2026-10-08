@@ -74,15 +74,15 @@ The central question of this project is:
 
 **🔎 Perform detailed exploratory data analysis**
 
-🛠️ Engineer meaningful predictive features
+**🛠️ Engineer meaningful predictive features**
 
-📊 Identify important variables
+**📊 Identify important variables**
 
-✂️ Perform feature selection
+**✂️ Perform feature selection**
 
-🤖 Train and compare regression models
+**🤖 Train and compare regression models**
 
-🎛️ Perform hyperparameter tuning
+**🎛️ Perform hyperparameter tuning**
 
 🔁 Apply cross-validation
 
