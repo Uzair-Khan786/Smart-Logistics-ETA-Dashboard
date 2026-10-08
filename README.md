@@ -84,9 +84,9 @@ The central question of this project is:
 
 **🎛️ Perform hyperparameter tuning**
 
-🔁 Apply cross-validation
+**🔁 Apply cross-validation**
 
-📉 Optimize MSE, MAE, and RMSE
+**📉 Optimize MSE, MAE, and RMSE**
 
 🚚 Develop an ML-based foundation for delivery ETA prediction
 
