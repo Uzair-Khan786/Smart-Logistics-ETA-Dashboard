@@ -399,76 +399,16 @@ The project focuses on three primary regression metrics.
 
 Mean Absolute Error — MAE
 
-𝑀
-𝐴
-𝐸
-=
-1
-𝑛
-∑
-𝑖
-=
-1
-𝑛
-∣
-𝑦
-𝑖
-−
-𝑦
-^
-𝑖
-∣
 
 MAE represents the average absolute difference between actual and predicted delivery times.
 
 Mean Squared Error — MSE
 
-𝑀
-𝑆
-𝐸
-=
-1
-𝑛
-∑
-𝑖
-=
-1
-𝑛
-(
-𝑦
-𝑖
-−
-𝑦
-^
-𝑖
-)
-2
 
 MSE gives greater weight to larger prediction errors.
 
 Root Mean Squared Error — RMSE
 
-𝑅
-𝑀
-𝑆
-𝐸
-=
-1
-𝑛
-∑
-𝑖
-=
-1
-𝑛
-(
-𝑦
-𝑖
-−
-𝑦
-^
-𝑖
-)
-2
 
 RMSE expresses prediction error on the same scale as the target variable.
 
