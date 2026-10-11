@@ -56,17 +56,17 @@
 
 **The models are evaluated and optimized using:**
 
-MSE — Mean Squared Error
+**MSE — Mean Squared Error**
 
-MAE — Mean Absolute Error
+**MAE — Mean Absolute Error**
 
-RMSE — Root Mean Squared Error
+**RMSE — Root Mean Squared Error**
 
 ## 🎯 Project Objectives
 
-The central question of this project is:
+**The central question of this project is:**
 
-"Given the available delivery information, how accurately can we predict when an order will arrive?"
+**"Given the available delivery information, how accurately can we predict when an order will arrive?"**
 
 ### Key objectives
 
@@ -88,14 +88,15 @@ The central question of this project is:
 
 **📉 Optimize MSE, MAE, and RMSE**
 
-🚚 Develop an ML-based foundation for delivery ETA prediction
+**🚚 Develop an ML-based foundation for delivery ETA prediction**
 
 ## 💡 Why Smart Logistics ETA?
-The real-world problem
 
-For logistics companies, ETA is more than just a number displayed to customers.
+**The real-world problem**
 
-Accurate delivery-time prediction can influence customer experience, operational planning, driver allocation, scheduling, and overall logistics efficiency.
+**For logistics companies, ETA is more than just a number displayed to customers.**
+
+**Accurate delivery-time prediction can influence customer experience, operational planning, driver allocation, scheduling, and overall logistics efficiency.**
 
                  Delivery Information
                           ↓
@@ -113,13 +114,13 @@ Accurate delivery-time prediction can influence customer experience, operational
 
 ### 🛵 1. Better customer experience
 
-Customers want to know:
+**Customers want to know:**
 
-"When will my order arrive?"
+**"When will my order arrive?"**
 
-An ETA that is consistently too early or too late can reduce customer trust.
+**An ETA that is consistently too early or too late can reduce customer trust.**
 
-More accurate ETA predictions can help delivery platforms provide realistic delivery-time estimates and improve transparency.
+**More accurate ETA predictions can help delivery platforms provide realistic delivery-time estimates and improve transparency.**
 
 ### 🚦 2. Delivery time depends on multiple factors
 
