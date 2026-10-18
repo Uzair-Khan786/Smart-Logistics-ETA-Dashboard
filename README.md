@@ -202,21 +202,21 @@ Real-world datasets require careful preprocessing before machine learning.
 
 The data-cleaning workflow includes:
 
-Missing-value analysis
+**Missing-value analysis**
 
-Duplicate detection
+**Duplicate detection**
 
-Data-type validation
+**Data-type validation**
 
-Inconsistent-value checks
+**Inconsistent-value checks**
 
-Outlier investigation
+**Outlier investigation**
 
-Column cleanup
+**Column cleanup**
 
-Target-variable validation
+**Target-variable validation**
 
-Appropriate transformation of variables
+**Appropriate transformation of variables**
 
 The objective is to create a clean and reliable dataset for downstream modeling.
 
