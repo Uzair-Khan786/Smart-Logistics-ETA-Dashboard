@@ -3,12 +3,6 @@
 **Predicting delivery time with machine learning to make logistics smarter, faster, and more reliable.**
 
 
-
-
-
-
-
-
 ## 📌 Project Overview
 
 **Smart Logistics ETA is an end-to-end machine learning project focused on predicting food delivery time (ETA) from operational, environmental, and delivery-related features.**
