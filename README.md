@@ -379,20 +379,20 @@ can be combined with cross-validation to evaluate different parameter configurat
 
 ## 🔁 Cross-Validation
 
-Cross-validation was used to obtain a more robust estimate of model performance than relying on a single train-test split.
+**Cross-validation was used to obtain a more robust estimate of model performance than relying on a single train-test split.**
 
-For example, with 5-fold cross-validation:
+**For example, with 5-fold cross-validation:**
 
-Dataset
-│
-├── Fold 1 → Train | Validation
-├── Fold 2 → Train | Validation
-├── Fold 3 → Train | Validation
-├── Fold 4 → Train | Validation
-└── Fold 5 → Train | Validation
+**Dataset**
+**│**
+**├── Fold 1 → Train | Validation**
+**├── Fold 2 → Train | Validation**
+**├── Fold 3 → Train | Validation**
+**├── Fold 4 → Train | Validation**
+**└── Fold 5 → Train | Validation**
 
 
-Performance is evaluated across multiple folds and aggregated to obtain a more reliable estimate of model behavior.
+**Performance is evaluated across multiple folds and aggregated to obtain a more reliable estimate of model behavior.**
 
 ## 📊 Model Evaluation
 
