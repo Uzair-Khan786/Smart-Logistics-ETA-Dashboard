@@ -356,9 +356,9 @@ Model selection is based on measured validation performance rather than simply c
 
 ## 🎛️ Hyperparameter Tuning
 
-Hyperparameter tuning was performed to identify model configurations that provide improved predictive performance.
+**Hyperparameter tuning was performed to identify model configurations that provide improved predictive performance.**
 
-Depending on the selected algorithm, parameters can include:
+**Depending on the selected algorithm, parameters can include:**
 
 param_grid = {
     "n_estimators": [...],
