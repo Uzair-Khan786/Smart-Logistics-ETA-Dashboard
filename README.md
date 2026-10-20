@@ -384,11 +384,17 @@ can be combined with cross-validation to evaluate different parameter configurat
 **For example, with 5-fold cross-validation:**
 
 **Dataset**
+
 **│**
+
 **├── Fold 1 → Train | Validation**
+
 **├── Fold 2 → Train | Validation**
+
 **├── Fold 3 → Train | Validation**
+
 **├── Fold 4 → Train | Validation**
+
 **└── Fold 5 → Train | Validation**
 
 
