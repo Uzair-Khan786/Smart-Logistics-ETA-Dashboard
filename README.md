@@ -415,16 +415,8 @@ RMSE expresses prediction error on the same scale as the target variable.
 
 ## 🏆 Model Performance
 
-Replace the placeholders below with the actual cross-validation results from the project.
 
-Model	CV MAE ↓	CV MSE ↓	CV RMSE ↓
-Baseline	--	--	--
-Model 1	--	--	--
-Model 2	--	--	--
-Tuned Model	--	--	--
-Final Model
-
-Model: YOUR_FINAL_MODEL
+Model: Random Forest
 
 MAE: XX.XX
 
